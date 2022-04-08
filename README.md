@@ -3,3 +3,5 @@
 
 Перевод книги Pure bash bible. Автор книги Dylan Araps.<br>
 Книга находится по адресу https://github.com/dylanaraps/pure-bash-bible.git
+
+[Читать книгу](00_foreword.md)
